@@ -1,3 +1,6 @@
 .item-list .list-group-item {
     cursor: pointer;
+    background-color: rgba(47, 47, 70, 0.822);
+    color: rgb(243, 235, 235);
+    width: 540px;
 }

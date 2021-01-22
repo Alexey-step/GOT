@@ -1,0 +1,30 @@
+.toggle-btn {
+    padding: 12px;
+    background-color: rgba(16, 16, 20, 0.822);
+    border: none;
+    border-radius: 4px;
+    color: #fff;
+    margin-bottom: 50px;
+    outline: none;
+    box-shadow: 0px 0px 30px rgba(256,256,256,.1);
+    cursor: pointer;
+}
+.toggle-btn:focus {
+    outline: none;
+}
+
+.toggle-btn:hover {
+    background-color: rgb(16, 16, 20);
+}
+
+.app {
+    background: rgb(47, 47, 70) url('got.jpeg') center center no-repeat;
+    background-size: cover;
+    height: auto;
+    padding-bottom: 50px;	
+}
+
+h1 {
+    text-align: center;
+    color: rgba(208, 208, 219, 0.308);
+}

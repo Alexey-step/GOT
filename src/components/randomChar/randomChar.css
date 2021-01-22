@@ -1,12 +1,19 @@
 .random-block {
-    background-color: #fff;
+    background-color: rgba(47, 47, 70, 0.822);
     padding: 25px 25px 15px 25px;
     margin-bottom: 40px;
 }
 .random-block h4 {
     margin-bottom: 20px;
     text-align: center;
+    color: rgb(209, 198, 198);
 }
+
+.random-block li{
+    background-color: transparent;
+    color: rgb(243, 235, 235);
+}
+
 .term {
     font-weight: bold;
 }
